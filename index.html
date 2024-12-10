@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Black Panthers in Context: The Smithsonian Archives</title>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Special+Elite&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+</head>
+<body>
+<div id="scrolly">
+  <div class="scrolly-container">
+    <div class="article">
+      <!-- Hero Section -->
+      <section data-step="0" class="graphic">
+        <img id="hero-image" src="images/Frame 1.png" alt="hero image">
+      </section>
+
+      <!-- Opening Quote -->
+      <section data-step="1" class="centered-text">
+        <img id="opening-quote" src="images/openingquote.svg" alt="quote by Bobby Seale">
+      </section>
+
+      <!-- Lil' Bobby Hutton -->
+      <section data-step="2">
+        <img id="lil-bobby-hutton" src="images/lilbobbyhutton 1.png" alt="Lil' Bobby Hutton">
+      </section>
+
+      <!-- Context Section -->
+      <section data-step="3" class="centered-text">
+        <img id="context" src="images/context.svg" alt="context">
+      </section>
+
+      <!-- Struggle Quote -->
+      <section data-step="4">
+        <img id="struggle-quote" src="images/struggle_quote.svg" alt="context">
+      </section>
+      
+      <!-- Main Gallery Section -->
+      <section data-step="5">
+        <header id="Galleries" class="gallery-title">Explore Galleries</header>
+        <div class="galleries"></div>
+      </section>
+      
+      <!-- Subgallery Section (Carousel Integrated) --> 
+      <section data-step="6" class="subGalleries hidden">
+        <div class="subGallery-carousel">
+          <div class="carousel-wrapper">
+            <!-- Images dynamically populated via subgalleries.js -->
+          </div>
+          <div class="carousel-dots">
+            <!-- Dots dynamically populated via subgalleries.js -->
+          </div>
+        </div>
+      </section>
+      
+      <!-- Visualization Dashboard Section -->
+      <section data-step="7" class="graphic img">
+        <div class="visualizationDashboard"></div>
+      </section>
+    </div>
+  </div>
+</div>
+
+<script src="galleries.js" defer></script>
+<script src="subgalleries.js" defer></script>
+<script src="visualizationDashboard.js" defer></script>
+
+</body>
+</html>

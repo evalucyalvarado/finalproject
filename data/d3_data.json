@@ -1,0 +1,2153 @@
+{
+    "nodes": [
+      {
+        "id": 7,
+        "name": "Huey P. Newton",
+        "group": 2,
+        "degree": 28,
+        "totalWeight": 60
+      },
+      {
+        "id": 8,
+        "name": "Bobby Seale",
+        "group": 2,
+        "degree": 31,
+        "totalWeight": 54
+      },
+      {
+        "id": 3,
+        "name": "Black Panther Party",
+        "group": 2,
+        "degree": 23,
+        "totalWeight": 42
+      },
+      {
+        "id": 5,
+        "name": "Unidentified Man",
+        "group": 2,
+        "degree": 18,
+        "totalWeight": 37
+      },
+      {
+        "id": 4,
+        "name": "Stephen Shames",
+        "group": 2,
+        "degree": 9,
+        "totalWeight": 26
+      },
+      {
+        "id": 9,
+        "name": "Unidentified Woman",
+        "group": 1,
+        "degree": 14,
+        "totalWeight": 26
+      },
+      {
+        "id": 15,
+        "name": "Eldridge Cleaver",
+        "group": 1,
+        "degree": 20,
+        "totalWeight": 23
+      },
+      {
+        "id": 2,
+        "name": "Bobby Hutton",
+        "group": 1,
+        "degree": 17,
+        "totalWeight": 20
+      },
+      {
+        "id": 6,
+        "name": "Unidentified Child",
+        "group": 1,
+        "degree": 9,
+        "totalWeight": 19
+      },
+      {
+        "id": 1,
+        "name": "Pirkle Jones",
+        "group": 1,
+        "degree": 11,
+        "totalWeight": 18
+      },
+      {
+        "id": 14,
+        "name": "Emory Douglas",
+        "group": 1,
+        "degree": 9,
+        "totalWeight": 17
+      },
+      {
+        "id": 10,
+        "name": "Marion Baruch",
+        "group": 1,
+        "degree": 8,
+        "totalWeight": 14
+      },
+      {
+        "id": 34,
+        "name": "Young Lords",
+        "group": 1,
+        "degree": 12,
+        "totalWeight": 14
+      },
+      {
+        "id": 13,
+        "name": "Fred Hampton",
+        "group": 1,
+        "degree": 8,
+        "totalWeight": 13
+      },
+      {
+        "id": 30,
+        "name": "Kathleen Cleaver",
+        "group": 1,
+        "degree": 10,
+        "totalWeight": 11
+      },
+      {
+        "id": 0,
+        "name": "David Hilliard",
+        "group": 1,
+        "degree": 9,
+        "totalWeight": 9
+      },
+      {
+        "id": 21,
+        "name": "Angela Davis",
+        "group": 1,
+        "degree": 8,
+        "totalWeight": 9
+      },
+      {
+        "id": 16,
+        "name": "Michael Hoerger",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 17,
+        "name": "Arthur Glenn Morris",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 18,
+        "name": "William Lee Brent",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 19,
+        "name": "Raymond Johnson Jr",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 33,
+        "name": "Hiram Maristany",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 7
+      },
+      {
+        "id": 42,
+        "name": "Mary Ann Carlton",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 43,
+        "name": "Delores Henderson",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 44,
+        "name": "Joyce Lee",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 45,
+        "name": "Joyce Means",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 46,
+        "name": "Paula Hill",
+        "group": 1,
+        "degree": 7,
+        "totalWeight": 7
+      },
+      {
+        "id": 25,
+        "name": "Amiri Baraka",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 26,
+        "name": "Ed Bullins",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 27,
+        "name": "Roscoe Orman",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 28,
+        "name": "Enrique Vargas",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 29,
+        "name": "Leroi Jones",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 35,
+        "name": "Kwame Ture F.K.A. Stokely Carmichael",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 36,
+        "name": "Lisa Lyons",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 37,
+        "name": "Ivan Dixon",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 38,
+        "name": "Mike Klonsky",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 49,
+        "name": "Melvin Newton",
+        "group": 1,
+        "degree": 6,
+        "totalWeight": 6
+      },
+      {
+        "id": 23,
+        "name": "H Rap Brown",
+        "group": 1,
+        "degree": 5,
+        "totalWeight": 5
+      },
+      {
+        "id": 24,
+        "name": "Jamil Abdullah Al",
+        "group": 1,
+        "degree": 5,
+        "totalWeight": 5
+      },
+      {
+        "id": 47,
+        "name": "Rafael Viera",
+        "group": 1,
+        "degree": 5,
+        "totalWeight": 5
+      },
+      {
+        "id": 12,
+        "name": "Unitarian Church",
+        "group": 1,
+        "degree": 3,
+        "totalWeight": 4
+      },
+      {
+        "id": 39,
+        "name": "Jesse Steve Rose",
+        "group": 1,
+        "degree": 4,
+        "totalWeight": 4
+      },
+      {
+        "id": 40,
+        "name": "Denise Oliver",
+        "group": 1,
+        "degree": 4,
+        "totalWeight": 4
+      },
+      {
+        "id": 41,
+        "name": "Mickey Agrait",
+        "group": 1,
+        "degree": 4,
+        "totalWeight": 4
+      },
+      {
+        "id": 22,
+        "name": "James Burford",
+        "group": 1,
+        "degree": 3,
+        "totalWeight": 3
+      },
+      {
+        "id": 31,
+        "name": "Alan Copeland",
+        "group": 1,
+        "degree": 3,
+        "totalWeight": 3
+      },
+      {
+        "id": 48,
+        "name": "Elaine Brown",
+        "group": 1,
+        "degree": 3,
+        "totalWeight": 3
+      },
+      {
+        "id": 52,
+        "name": "Frank Espada",
+        "group": 1,
+        "degree": 3,
+        "totalWeight": 3
+      },
+      {
+        "id": 53,
+        "name": "Bobby Rush",
+        "group": 1,
+        "degree": 2,
+        "totalWeight": 2
+      },
+      {
+        "id": 11,
+        "name": "Blair Stapp",
+        "group": 1,
+        "degree": 1,
+        "totalWeight": 1
+      },
+      {
+        "id": 20,
+        "name": "David Lewis",
+        "group": 1,
+        "degree": 1,
+        "totalWeight": 1
+      },
+      {
+        "id": 51,
+        "name": "Faith Ringgold",
+        "group": 1,
+        "degree": 1,
+        "totalWeight": 1
+      },
+      {
+        "id": 32,
+        "name": "Mark James",
+        "group": 1,
+        "degree": 1,
+        "totalWeight": 1
+      },
+      {
+        "id": 50,
+        "name": "Bob Fletcher",
+        "group": 1,
+        "degree": 1,
+        "totalWeight": 1
+      }
+    ],
+    "links": [
+      {
+        "source": 0,
+        "target": 1,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 7,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 8,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 14,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 15,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 0,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 2,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 5,
+        "value": 3,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.1",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 7,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.1",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 9,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 42,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 43,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 44,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 1,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.6",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 5,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 7,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 8,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 10,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 13,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 16,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 17,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 42,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 43,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 44,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 2,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 4,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.6"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 5,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7",
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 6,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 7,
+        "value": 3,
+        "links": [
+          "N/A",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.9",
+          "https://nmaahc.si.edu/object/nmaahc_2012.46.20"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 8,
+        "value": 5,
+        "links": [
+          "N/A",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.9",
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.1",
+          "https://nmaahc.si.edu/object/nmaahc_2012.46.20"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 9,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.2"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 13,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.2",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.10",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.18"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 14,
+        "value": 5,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.2",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.10",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.18",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.8.1",
+          "https://nmaahc.si.edu/object/nmaahc_2023.39.11"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 15,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 16,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 17,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 21,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 22,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 23,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 24,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 31,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.1"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 33,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.186.2"
+        ]
+      },
+      {
+        "source": 3,
+        "target": 34,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.186.2"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 5,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 6,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.8",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 7,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.10",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 8,
+        "value": 5,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.10",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 9,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 21,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 22,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4"
+        ]
+      },
+      {
+        "source": 4,
+        "target": 48,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 6,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.7",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 7,
+        "value": 6,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.1",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 8,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 9,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 10,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 12,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 15,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 21,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 23,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 24,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 33,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 34,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 47,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 5,
+        "target": 48,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 7,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.5",
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 8,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 9,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.4",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 10,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.5"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 34,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 6,
+        "target": 52,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 8,
+        "value": 9,
+        "links": [
+          "N/A",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.9",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.3",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20",
+          "https://nmaahc.si.edu/object/nmaahc_2012.46.20",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.10",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.11",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 9,
+        "value": 4,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.3",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.5"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 10,
+        "value": 3,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.5",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.5"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 11,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2011.58"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 14,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.11.1"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 15,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 34,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 35,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 36,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 37,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 42,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 43,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 44,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 7,
+        "target": 52,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 9,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.5",
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 13,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 14,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 15,
+        "value": 3,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 16,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 17,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 25,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 26,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 27,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 28,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 31,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.1"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 33,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 34,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 35,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 36,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 37,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 47,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 48,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.9"
+        ]
+      },
+      {
+        "source": 8,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 10,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.4",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.5"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 33,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 34,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4",
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 39,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 40,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 41,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 9,
+        "target": 47,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 10,
+        "target": 12,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.1",
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.3"
+        ]
+      },
+      {
+        "source": 10,
+        "target": 20,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.2"
+        ]
+      },
+      {
+        "source": 10,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.3"
+        ]
+      },
+      {
+        "source": 12,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.149.3"
+        ]
+      },
+      {
+        "source": 13,
+        "target": 14,
+        "value": 3,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2022.56.2",
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.10",
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.18"
+        ]
+      },
+      {
+        "source": 13,
+        "target": 16,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 13,
+        "target": 17,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 13,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 13,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 14,
+        "target": 15,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 14,
+        "target": 30,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19",
+          "https://nmaahc.si.edu/object/nmaahc_2021.33.7"
+        ]
+      },
+      {
+        "source": 14,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 14,
+        "target": 53,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.33.7"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 21,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 23,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 24,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 25,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 26,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 27,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 28,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 30,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 35,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 36,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 37,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 15,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 16,
+        "target": 17,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 16,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 16,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 17,
+        "target": 18,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 17,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 18,
+        "target": 19,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2015.97.13"
+        ]
+      },
+      {
+        "source": 21,
+        "target": 22,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.123.4"
+        ]
+      },
+      {
+        "source": 21,
+        "target": 23,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 21,
+        "target": 24,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 21,
+        "target": 51,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.72.1"
+        ]
+      },
+      {
+        "source": 23,
+        "target": 24,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.26.3"
+        ]
+      },
+      {
+        "source": 25,
+        "target": 26,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 25,
+        "target": 27,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 25,
+        "target": 28,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 25,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 26,
+        "target": 27,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 26,
+        "target": 28,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 26,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 27,
+        "target": 28,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 27,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 28,
+        "target": 29,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.63.36"
+        ]
+      },
+      {
+        "source": 30,
+        "target": 31,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.107.4"
+        ]
+      },
+      {
+        "source": 30,
+        "target": 49,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.19"
+        ]
+      },
+      {
+        "source": 30,
+        "target": 53,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.33.7"
+        ]
+      },
+      {
+        "source": 33,
+        "target": 34,
+        "value": 2,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.186.2",
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 33,
+        "target": 47,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 34,
+        "target": 39,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 34,
+        "target": 40,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 34,
+        "target": 41,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 34,
+        "target": 47,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.220.1"
+        ]
+      },
+      {
+        "source": 34,
+        "target": 52,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2021.53.33"
+        ]
+      },
+      {
+        "source": 35,
+        "target": 36,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 35,
+        "target": 37,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 35,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 36,
+        "target": 37,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 36,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 37,
+        "target": 38,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2019.28.20"
+        ]
+      },
+      {
+        "source": 39,
+        "target": 40,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 39,
+        "target": 41,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 40,
+        "target": 41,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2014.109.7.4"
+        ]
+      },
+      {
+        "source": 42,
+        "target": 43,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 42,
+        "target": 44,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 42,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 42,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 43,
+        "target": 44,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 43,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 43,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 44,
+        "target": 45,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 44,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 45,
+        "target": 46,
+        "value": 1,
+        "links": [
+          "https://nmaahc.si.edu/object/nmaahc_2012.83.6"
+        ]
+      },
+      {
+        "source": 32,
+        "target": 7,
+        "value": 1,
+        "links": []
+      },
+      {
+        "source": 50,
+        "target": 7,
+        "value": 1,
+        "links": []
+      }
+    ]
+  }

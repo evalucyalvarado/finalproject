@@ -1,0 +1,88 @@
+[
+    {
+        "name": "The War on the Black Panther Party",
+        "gallery-description":"The United States government sought to eradicate the Black Panther Party",
+        "heroImage":"images/war_on_panthers_hero.png",
+        "galleryTitle":"The War on the Black Panther Party",
+        "gallerySubtitle":"1968 and beyond",
+        "color": "#852221"  
+    },
+
+    {
+        "name": "Bobby Hutton Memorial Park",
+        "gallery-description": "A tribute to Bobby Hutton, the first recruit of the Black Panther Party and a symbol of their struggle for justice.",
+        "heroImage": "images/memorial_park_hero.png",
+        "galleryTitle": "Remembrance and Struggle",
+        "gallerySubtitle": "Bobby Hutton Memorial Park",
+        "color": "#AA5F5A"  
+    },
+
+    {
+        "name": "Food and Medicine",
+        "gallery-description": "Highlighting the Panthers' community programs like free breakfast and health clinics.",
+        "heroImage": "images/food_and_medicine.png",
+        "galleryTitle": "Food & Medicine",
+        "gallerySubtitle": "Community Programs",
+        "color": "#82AE79"  
+    },
+
+    {
+        "name": "Leadership",
+        "gallery-description": "Celebrating the leaders of the Black Panther Party and their contributions to the movement.",
+        "heroImage": "images/leadership_hero.png",
+        "galleryTitle": "Party Leadership",
+        "gallerySubtitle": "Leaders and Key Figures",
+        "color": "#7C8176"  
+    },
+   
+    {
+        "name": "Unidentified",
+        "gallery-description": "Highlighting unnamed subjects in the Smithsonian Collection",
+        "heroImage": "images/unnamed_hero.png",
+        "galleryTitle": "Unidentified Subjects",
+        "gallerySubtitle": "Unnamed but not forgotten",
+        "color": "#B3261E"  
+    },
+    {
+        "name": "Life in Moments",
+        "gallery-description":"Highlighting moments in the everyday life of party members",
+        "heroImage":"images/life_in_moments_hero.png",
+        "galleryTitle": "Life in Moments",
+        "gallerySubtitle": "Capturing the Everyday",
+        "color": "#7C8176"  
+    },
+  
+    {
+        "name": "Art and Culture",
+        "gallery-description":"Art and cultural productions",
+        "heroImage":"images/art_and_culture.png",
+        "galleryTitle":"Art and Culture",
+        "gallerySubtitle":"Art and cultural productions",
+        "color": "#625B71"  
+    },
+    {
+        "name": "Free Our Sisters and Brothers",
+        "gallery-description": "Free our Sisters and Brothers",
+        "description":"Political actions and protests for political prisoners",
+        "heroImage":"images/free_our_sisters_and_brothers_hero.png",
+        "galleryTitle":"Free our Sisters and Brothers",
+        "gallerySubtitle":"Rallies and political actions",
+        "color": "#625B71"  
+    },
+    {
+        "name": "Political Strategy",
+        "gallery-description":"The Black Panther political program consisted of...",
+        "heroImage":"images/political_strategy.png",
+        "galleryTitle":"Political Strategies",
+        "gallerySubtitle":"Rallies and political actions",
+        "color": "#736868"  
+    },
+    {
+        "name": "Young Lords Party",
+        "gallery-description":"The Young Lords Party was...",
+        "heroImage":"images/young_lords_hero.png",
+        "galleryTitle":"Associated Organizations",
+        "gallerySubtitle":"The Young Lords Party",
+        "color": "#231F20"  
+    }
+]
